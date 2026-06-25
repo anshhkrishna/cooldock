@@ -1,0 +1,6 @@
+# SwiftPM build output
+.build/
+# Packaged app bundle
+Cooldock.app/
+# macOS
+.DS_Store
